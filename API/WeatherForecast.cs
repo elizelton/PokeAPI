@@ -1,4 +1,4 @@
-namespace PokeAPI;
+namespace API;
 
 public class WeatherForecast
 {
