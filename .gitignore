@@ -1,0 +1,33 @@
+# Rider-specific
+.idea/
+
+# Compiled files
+/bin/
+/obj/
+
+# NuGet packages
+*.nuget.cache/
+packages/
+*.nupkg
+*.snupkg
+
+# Build results
+[Rr]elease/
+[Dd]ebug/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+*.sln.dotsettings
+
+# Visual Studio files
+.vs/
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+# Other generated files
+*.sln.iml
+*.resharper
